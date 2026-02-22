@@ -36,7 +36,6 @@ Angular
 <img align="left" alt="Java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
 <img align="left" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
 <img align="left" alt="GitHub" width="36px" src="https://cdn.icon-icons.com/icons2/1181/PNG/512/1490128251-epic-social-media-online-web-internet-github_82122.png" />
-<img src="https://img.shields.io/github/followers/diegoSbrandao?color=black&label=Follow&logoColor=blue&style=social" height="22" title="Follow me" align="center" alt="GitHub">
 
 <br />
 
