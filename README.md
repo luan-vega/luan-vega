@@ -39,8 +39,3 @@ Angular
 
 <br />
 
-
-------
-
-</details>
-
